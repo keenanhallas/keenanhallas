@@ -3,9 +3,9 @@
 My name's Keenan Hallas and I'm a software developer about to graduate from Lambda School. I'm looking forward to getting into the industry and starting the next step of my softwate development journey!
 
 ### About Me
-• I really enjoy working with the frontend and am interested in using CSS and HTML in new and experimental ways to create dynamic sites that display visual information in a way that truly draws people in
-• But I enjoy working on the backend as well, and can't wait to learn more about professional backends and DBs on the job
-• When I'm not coding, I enjoy biking, playing music, studying Spanish, reading, writing, and drawing.
+• I really enjoy working with the frontend and am interested in using CSS and HTML in new and experimental ways to create dynamic sites that display visual information in a way that truly draws people in  
+• But I enjoy working on the backend as well, and can't wait to learn more about professional backends and DBs on the job  
+• When I'm not coding, I enjoy biking, playing music, studying Spanish, reading, writing, and drawing  
 
 ### Skills
 • HTML/CSS/Javascript  
