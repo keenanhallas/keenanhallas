@@ -8,11 +8,11 @@ My name's Keenan Hallas and I'm a software developer about to graduate from Lamb
 • When I'm not coding, I enjoy biking, playing music, studying Spanish, reading, writing, and drawing.
 
 ### Skills
-• HTML/CSS/Javascript
-• React
-• Node.js
-• Express
-• SQL
+• HTML/CSS/Javascript  
+• React  
+• Node.js  
+• Express  
+• SQL  
 
 ### Contact
 https://www.linkedin.com/in/keenanhallas/
