@@ -4,6 +4,7 @@ Hi there, I'm Keenan. I'm currently working on refreshing my dev skills after ta
 
 ### Skills currently in progress...
   • HTML/CSS
+  
   • Javascript
 
 ### Contact
