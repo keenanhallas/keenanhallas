@@ -9,6 +9,8 @@ Hi there, I'm Keenan. I'm currently working on refreshing my dev skills after ta
   
   • Python
 
+  • Git
+
 ### Contact
 https://www.linkedin.com/in/keenanhallas/
 
