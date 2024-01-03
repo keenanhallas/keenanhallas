@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there, I'm Keenan. I'm currently working on refreshing my dev skills after taking a long and winding path away from and now back to web dev. Some day I'll be hirable, but until then I'll be here quietly studying & typing away.
+Hi there, I'm Keenan. I'm currently working on refreshing my dev skills after taking a long and winding path away from and now back to full stack web development. Some day I'll be hirable, but until then I'll be here quietly studying & typing away.
 
 ### Skills currently in progress...
   • HTML/CSS
