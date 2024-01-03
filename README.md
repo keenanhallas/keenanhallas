@@ -4,8 +4,8 @@ Hi there, I'm Keenan. I'm currently working on refreshing my dev skills after ta
 
 ### Skills currently in progress...
   • HTML/CSS
-  
   • Javascript
+  • Python
 
 ### Contact
 https://www.linkedin.com/in/keenanhallas/
